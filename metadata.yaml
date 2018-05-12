@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35574
     wikipedia: http://en.wikipedia.org/wiki/George_Foot_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40173#The-Literature-of-the-Old-Testament
 gutenberg_issued: '2012-07-08'
 gutenberg_type: Text
 identifiers:
